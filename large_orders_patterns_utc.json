@@ -1,0 +1,4723 @@
+{
+  "metadata": {
+    "analyst": "fedfraud",
+    "timestamp_utc": "2025-07-02 19:46:47",
+    "timestamp_ms": 1751485607000,
+    "pattern_type": "LARGE_ORDERS",
+    "time_format": "All timestamps converted to UTC"
+  },
+  "patterns": {
+    "BTCUSDT_Binance_SWAP_min10000000": {
+      "success": true,
+      "code": "1",
+      "data": [
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 109324.5,
+          "tradeTurnover": 11340230.385,
+          "ts": 1751473355486,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 109300.0,
+          "tradeTurnover": 14711670.7,
+          "ts": 1751472532894,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 109300.0,
+          "tradeTurnover": 10934809.2,
+          "ts": 1751472532639,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 109300.0,
+          "tradeTurnover": 10845620.4,
+          "ts": 1751472529087,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 109099.9,
+          "tradeTurnover": 17141994.4878,
+          "ts": 1751472348918,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 109000.0,
+          "tradeTurnover": 10372549.0,
+          "ts": 1751472344399,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108888.0,
+          "tradeTurnover": 12183042.768,
+          "ts": 1751472305036,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108500.0,
+          "tradeTurnover": 11474092.0,
+          "ts": 1751471579810,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108400.0,
+          "tradeTurnover": 23358357.2,
+          "ts": 1751470697672,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108300.0,
+          "tradeTurnover": 37502773.8,
+          "ts": 1751469000373,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108200.0,
+          "tradeTurnover": 17157923.2,
+          "ts": 1751468521527,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108000.0,
+          "tradeTurnover": 13803372.0,
+          "ts": 1751466411794,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107700.0,
+          "tradeTurnover": 12312048.6,
+          "ts": 1751464912993,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107700.0,
+          "tradeTurnover": 10494072.6,
+          "ts": 1751464912881,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107800.0,
+          "tradeTurnover": 19828947.6,
+          "ts": 1751464072015,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107650.0,
+          "tradeTurnover": 10495444.4,
+          "ts": 1751446441234,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107650.0,
+          "tradeTurnover": 22348678.25,
+          "ts": 1751446372878,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107561.9,
+          "tradeTurnover": 10783188.0369,
+          "ts": 1751444467178,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105400.0,
+          "tradeTurnover": 17580087.6,
+          "ts": 1751417683954,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105400.0,
+          "tradeTurnover": 13192074.8,
+          "ts": 1751417683853,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105350.0,
+          "tradeTurnover": 12875244.9,
+          "ts": 1751399024513,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105350.0,
+          "tradeTurnover": 11573434.95,
+          "ts": 1751398920953,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106150.0,
+          "tradeTurnover": 16377352.75,
+          "ts": 1751384152774,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106150.0,
+          "tradeTurnover": 10121614.8,
+          "ts": 1751384152673,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105800.0,
+          "tradeTurnover": 15312434.0,
+          "ts": 1751381278571,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105700.0,
+          "tradeTurnover": 10195716.3,
+          "ts": 1751381262433,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106077.5,
+          "tradeTurnover": 16737226.1825,
+          "ts": 1751380882813,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106481.4,
+          "tradeTurnover": 10455941.073,
+          "ts": 1751370107590,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106531.6,
+          "tradeTurnover": 12419560.4596,
+          "ts": 1751369761316,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106565.0,
+          "tradeTurnover": 12674095.145,
+          "ts": 1751362400506,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106930.0,
+          "tradeTurnover": 10704655.37,
+          "ts": 1751356029502,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106800.0,
+          "tradeTurnover": 13458829.2,
+          "ts": 1751346603364,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107500.0,
+          "tradeTurnover": 11509057.5,
+          "ts": 1751291400811,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107500.0,
+          "tradeTurnover": 23165175.0,
+          "ts": 1751291400566,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108000.0,
+          "tradeTurnover": 10382904.0,
+          "ts": 1751265408982,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108650.0,
+          "tradeTurnover": 13120682.65,
+          "ts": 1751243942066,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108650.0,
+          "tradeTurnover": 10299150.8,
+          "ts": 1751243941965,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107671.4,
+          "tradeTurnover": 11233895.519,
+          "ts": 1751212097536,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108050.0,
+          "tradeTurnover": 28103264.75,
+          "ts": 1751191531730,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107780.0,
+          "tradeTurnover": 37384570.8,
+          "ts": 1751189609484,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106955.0,
+          "tradeTurnover": 12769250.495,
+          "ts": 1751066609152,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106510.0,
+          "tradeTurnover": 15983529.66,
+          "ts": 1751049420704,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107010.0,
+          "tradeTurnover": 10080770.04,
+          "ts": 1751038802322,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106600.0,
+          "tradeTurnover": 10512572.2,
+          "ts": 1751029318011,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106815.0,
+          "tradeTurnover": 10421085.03,
+          "ts": 1751012277871,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107238.3,
+          "tradeTurnover": 20016993.8397,
+          "ts": 1750972904184,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107000.0,
+          "tradeTurnover": 11972230.0,
+          "ts": 1750945038115,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107100.0,
+          "tradeTurnover": 18623190.6,
+          "ts": 1750938308570,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107200.0,
+          "tradeTurnover": 16380374.4,
+          "ts": 1750936861425,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108000.0,
+          "tradeTurnover": 11399940.0,
+          "ts": 1750906883019,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107614.1,
+          "tradeTurnover": 10640882.208,
+          "ts": 1750880273757,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107750.0,
+          "tradeTurnover": 10463387.0,
+          "ts": 1750879195418,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107240.0,
+          "tradeTurnover": 12264073.64,
+          "ts": 1750867381509,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107000.0,
+          "tradeTurnover": 10056823.0,
+          "ts": 1750864744612,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107600.0,
+          "tradeTurnover": 26180156.0,
+          "ts": 1750862105590,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107200.0,
+          "tradeTurnover": 21469158.4,
+          "ts": 1750861303114,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107200.0,
+          "tradeTurnover": 12984707.2,
+          "ts": 1750861303021,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107950.0,
+          "tradeTurnover": 16575074.8,
+          "ts": 1750860294851,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108000.0,
+          "tradeTurnover": 10852380.0,
+          "ts": 1750859334778,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108000.0,
+          "tradeTurnover": 16501104.0,
+          "ts": 1750859052211,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108000.0,
+          "tradeTurnover": 16235856.0,
+          "ts": 1750859047536,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107929.5,
+          "tradeTurnover": 10682106.4035,
+          "ts": 1750859015378,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107900.0,
+          "tradeTurnover": 20560776.6,
+          "ts": 1750859003586,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106500.0,
+          "tradeTurnover": 24257185.5,
+          "ts": 1750844652088,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105868.9,
+          "tradeTurnover": 11134655.6886,
+          "ts": 1750811701221,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106090.0,
+          "tradeTurnover": 18537105.7,
+          "ts": 1750810117864,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106090.0,
+          "tradeTurnover": 17095342.6,
+          "ts": 1750810117761,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105278.9,
+          "tradeTurnover": 10513887.9063,
+          "ts": 1750794498450,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105544.0,
+          "tradeTurnover": 10666698.816,
+          "ts": 1750793501753,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105284.8,
+          "tradeTurnover": 10721572.3232,
+          "ts": 1750792434485,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105300.0,
+          "tradeTurnover": 12315256.2,
+          "ts": 1750779702215,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105300.0,
+          "tradeTurnover": 10156922.1,
+          "ts": 1750779701702,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105200.0,
+          "tradeTurnover": 10983090.4,
+          "ts": 1750772320928,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105000.0,
+          "tradeTurnover": 10444350.0,
+          "ts": 1750769036805,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105000.0,
+          "tradeTurnover": 14730660.0,
+          "ts": 1750769036704,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105100.0,
+          "tradeTurnover": 12925092.9,
+          "ts": 1750751575922,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105160.0,
+          "tradeTurnover": 14112156.52,
+          "ts": 1750750399853,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105410.1,
+          "tradeTurnover": 11126984.7459,
+          "ts": 1750749167574,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105139.9,
+          "tradeTurnover": 10313067.6511,
+          "ts": 1750742961778,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105050.0,
+          "tradeTurnover": 10733378.7,
+          "ts": 1750730947366,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104955.0,
+          "tradeTurnover": 17342869.155,
+          "ts": 1750725833868,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104700.0,
+          "tradeTurnover": 10523501.7,
+          "ts": 1750716485277,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104144.4,
+          "tradeTurnover": 12171564.3168,
+          "ts": 1750713434659,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 103700.0,
+          "tradeTurnover": 21274677.2,
+          "ts": 1750711839804,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 103781.0,
+          "tradeTurnover": 11434694.361,
+          "ts": 1750710718673,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 103557.6,
+          "tradeTurnover": 10011638.0952,
+          "ts": 1750710001581,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 103100.0,
+          "tradeTurnover": 12055792.3,
+          "ts": 1750703981400,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 102810.0,
+          "tradeTurnover": 11231581.26,
+          "ts": 1750702249367,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 102807.1,
+          "tradeTurnover": 10281738.071,
+          "ts": 1750702133486,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 101500.0,
+          "tradeTurnover": 10947079.5,
+          "ts": 1750698631918,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 100300.0,
+          "tradeTurnover": 10704517.5,
+          "ts": 1750696770982,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 102450.0,
+          "tradeTurnover": 29008512.6,
+          "ts": 1750687208128,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 101260.0,
+          "tradeTurnover": 17106054.32,
+          "ts": 1750684397364,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 101136.4,
+          "tradeTurnover": 10213663.8996,
+          "ts": 1750679227836,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 101700.0,
+          "tradeTurnover": 22774901.4,
+          "ts": 1750661043988,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 101800.0,
+          "tradeTurnover": 18903649.2,
+          "ts": 1750658568771,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 101600.0,
+          "tradeTurnover": 11089538.4,
+          "ts": 1750657988044,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 100800.0,
+          "tradeTurnover": 23288025.6,
+          "ts": 1750640381920,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 101500.0,
+          "tradeTurnover": 10355436.0,
+          "ts": 1750639760260,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 101500.0,
+          "tradeTurnover": 12590973.5,
+          "ts": 1750639760158,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 100800.0,
+          "tradeTurnover": 11877566.4,
+          "ts": 1750633082405,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 100700.0,
+          "tradeTurnover": 10164758.7,
+          "ts": 1750632751179,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 98886.4,
+          "tradeTurnover": 10209526.368,
+          "ts": 1750624865891,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 99000.0,
+          "tradeTurnover": 10505979.0,
+          "ts": 1750607937379,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 99200.0,
+          "tradeTurnover": 17391347.2,
+          "ts": 1750606045414,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 99300.0,
+          "tradeTurnover": 17335794.0,
+          "ts": 1750606000197,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 99576.0,
+          "tradeTurnover": 10810070.136,
+          "ts": 1750604560574,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 99200.0,
+          "tradeTurnover": 16822534.4,
+          "ts": 1750603820210,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 99330.0,
+          "tradeTurnover": 10993745.07,
+          "ts": 1750603718467,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 99561.5,
+          "tradeTurnover": 10141533.513,
+          "ts": 1750602284887,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 100300.0,
+          "tradeTurnover": 24745113.3,
+          "ts": 1750601976163,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 102200.0,
+          "tradeTurnover": 10920887.6,
+          "ts": 1750598017020,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 102600.0,
+          "tradeTurnover": 11502383.4,
+          "ts": 1750591064373,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 102350.0,
+          "tradeTurnover": 11974335.9,
+          "ts": 1750585604201,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 102800.0,
+          "tradeTurnover": 21258731.6,
+          "ts": 1750572033728,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 102690.0,
+          "tradeTurnover": 10343244.87,
+          "ts": 1750565400721,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 102468.7,
+          "tradeTurnover": 10270027.9262,
+          "ts": 1750556517378,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 101687.9,
+          "tradeTurnover": 16539841.9987,
+          "ts": 1750550124632,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 101600.0,
+          "tradeTurnover": 15609722.4,
+          "ts": 1750542319777,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 102443.4,
+          "tradeTurnover": 11079561.0402,
+          "ts": 1750537748358,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 102343.2,
+          "tradeTurnover": 11495699.94,
+          "ts": 1750536743205,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 102240.7,
+          "tradeTurnover": 10221002.779,
+          "ts": 1750536084835,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 103000.0,
+          "tradeTurnover": 16850182.0,
+          "ts": 1750531937222,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 103000.0,
+          "tradeTurnover": 18425773.0,
+          "ts": 1750531703039,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 103500.0,
+          "tradeTurnover": 19232887.5,
+          "ts": 1750516367987,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 103750.0,
+          "tradeTurnover": 23689548.75,
+          "ts": 1750499102937,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 103200.0,
+          "tradeTurnover": 11331772.8,
+          "ts": 1750457264318,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 103456.0,
+          "tradeTurnover": 10343013.6,
+          "ts": 1750456972968,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 103100.0,
+          "tradeTurnover": 12035894.0,
+          "ts": 1750442580495,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 103100.0,
+          "tradeTurnover": 19954489.5,
+          "ts": 1750442580439,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 102500.0,
+          "tradeTurnover": 14875210.0,
+          "ts": 1750441031423,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 102809.9,
+          "tradeTurnover": 10295280.5761,
+          "ts": 1750440655349,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 102845.1,
+          "tradeTurnover": 11393077.3329,
+          "ts": 1750440361291,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 102800.0,
+          "tradeTurnover": 12477761.2,
+          "ts": 1750440182766,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 103000.0,
+          "tradeTurnover": 11467917.0,
+          "ts": 1750439990789,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 103954.0,
+          "tradeTurnover": 10369515.454,
+          "ts": 1750437580170,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104050.0,
+          "tradeTurnover": 23151125.0,
+          "ts": 1750435741322,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105611.9,
+          "tradeTurnover": 13744649.5017,
+          "ts": 1750428073113,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105499.0,
+          "tradeTurnover": 10551482.485,
+          "ts": 1750427327610,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106055.0,
+          "tradeTurnover": 13041159.13,
+          "ts": 1750416333628,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106100.0,
+          "tradeTurnover": 10922252.3,
+          "ts": 1750409667666,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106478.4,
+          "tradeTurnover": 11404688.4672,
+          "ts": 1750408623901,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106300.0,
+          "tradeTurnover": 10765957.7,
+          "ts": 1750407441556,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106000.0,
+          "tradeTurnover": 12456272.0,
+          "ts": 1750406822474,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105445.0,
+          "tradeTurnover": 12156015.935,
+          "ts": 1750405774681,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104960.0,
+          "tradeTurnover": 16520599.04,
+          "ts": 1750404003790,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104750.0,
+          "tradeTurnover": 14000885.0,
+          "ts": 1750403757598,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104200.8,
+          "tradeTurnover": 17494689.1152,
+          "ts": 1750344614560,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104775.2,
+          "tradeTurnover": 13177053.028,
+          "ts": 1750307659277,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104971.8,
+          "tradeTurnover": 18312120.5664,
+          "ts": 1750306677333,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104971.8,
+          "tradeTurnover": 14401081.242,
+          "ts": 1750306672626,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105124.8,
+          "tradeTurnover": 21825275.1024,
+          "ts": 1750293293028,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104200.0,
+          "tradeTurnover": 15274052.8,
+          "ts": 1750268951170,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104122.0,
+          "tradeTurnover": 11997457.45,
+          "ts": 1750268640278,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 103650.0,
+          "tradeTurnover": 26975430.75,
+          "ts": 1750268017086,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105252.8,
+          "tradeTurnover": 10769150.7376,
+          "ts": 1750221773317,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104450.0,
+          "tradeTurnover": 15558140.85,
+          "ts": 1750191274931,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104450.0,
+          "tradeTurnover": 19573825.55,
+          "ts": 1750191264401,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104750.0,
+          "tradeTurnover": 13289108.75,
+          "ts": 1750187107489,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 103700.0,
+          "tradeTurnover": 12052428.8,
+          "ts": 1750179053145,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104050.0,
+          "tradeTurnover": 18804124.1,
+          "ts": 1750178803818,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104500.0,
+          "tradeTurnover": 10450000.0,
+          "ts": 1750173032051,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104580.0,
+          "tradeTurnover": 13416881.94,
+          "ts": 1750172939580,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105600.0,
+          "tradeTurnover": 14631619.2,
+          "ts": 1750169767289,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105600.0,
+          "tradeTurnover": 12705792.0,
+          "ts": 1750169741446,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105450.0,
+          "tradeTurnover": 12349565.85,
+          "ts": 1750169325500,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105500.0,
+          "tradeTurnover": 20850176.0,
+          "ts": 1750166529522,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106100.0,
+          "tradeTurnover": 11637154.1,
+          "ts": 1750153171905,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106188.0,
+          "tradeTurnover": 18613694.52,
+          "ts": 1750153166168,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106300.0,
+          "tradeTurnover": 18817863.8,
+          "ts": 1750152903022,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107299.0,
+          "tradeTurnover": 12236699.857,
+          "ts": 1750135131350,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107137.3,
+          "tradeTurnover": 10177079.2643,
+          "ts": 1750128795941,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107111.0,
+          "tradeTurnover": 10682072.919,
+          "ts": 1750116925104,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107600.0,
+          "tradeTurnover": 17679648.4,
+          "ts": 1750114315748,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108900.0,
+          "tradeTurnover": 10498831.2,
+          "ts": 1750111715604,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108600.0,
+          "tradeTurnover": 10834370.4,
+          "ts": 1750106333622,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108399.0,
+          "tradeTurnover": 19825743.504,
+          "ts": 1750102884470,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108500.0,
+          "tradeTurnover": 14649453.0,
+          "ts": 1750102819429,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108501.8,
+          "tradeTurnover": 10005601.9888,
+          "ts": 1750102627743,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108800.0,
+          "tradeTurnover": 16124160.0,
+          "ts": 1750101464160,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108155.0,
+          "tradeTurnover": 14858874.675,
+          "ts": 1750100166280,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108000.0,
+          "tradeTurnover": 10454400.0,
+          "ts": 1750098290320,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106699.0,
+          "tradeTurnover": 10497794.513,
+          "ts": 1750072620056,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106000.0,
+          "tradeTurnover": 13282542.0,
+          "ts": 1750047688903,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105900.6,
+          "tradeTurnover": 18736675.4562,
+          "ts": 1750047087066,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105500.0,
+          "tradeTurnover": 17949875.5,
+          "ts": 1749968715847,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106000.0,
+          "tradeTurnover": 11241406.0,
+          "ts": 1749967139832,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105900.0,
+          "tradeTurnover": 21176081.7,
+          "ts": 1749966312023,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104300.0,
+          "tradeTurnover": 12160232.7,
+          "ts": 1749919930907,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104300.0,
+          "tradeTurnover": 15494390.8,
+          "ts": 1749919866667,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105500.0,
+          "tradeTurnover": 28193398.0,
+          "ts": 1749863096034,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105850.0,
+          "tradeTurnover": 15386779.4,
+          "ts": 1749857763435,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105850.0,
+          "tradeTurnover": 18932860.25,
+          "ts": 1749857763334,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105000.0,
+          "tradeTurnover": 22209915.0,
+          "ts": 1749840697968,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105850.0,
+          "tradeTurnover": 13161177.3,
+          "ts": 1749831371340,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105328.6,
+          "tradeTurnover": 31616169.8762,
+          "ts": 1749827428739,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104200.0,
+          "tradeTurnover": 40686140.4,
+          "ts": 1749824506951,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104411.0,
+          "tradeTurnover": 18942139.209,
+          "ts": 1749823866489,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104768.9,
+          "tradeTurnover": 10477832.9201,
+          "ts": 1749820670056,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105450.0,
+          "tradeTurnover": 29671204.65,
+          "ts": 1749802478554,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104549.2,
+          "tradeTurnover": 10456279.1396,
+          "ts": 1749800269652,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104470.0,
+          "tradeTurnover": 10634210.24,
+          "ts": 1749797902868,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104350.0,
+          "tradeTurnover": 10518897.4,
+          "ts": 1749787081316,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104166.8,
+          "tradeTurnover": 16959813.3752,
+          "ts": 1749786844542,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 103669.0,
+          "tradeTurnover": 10411996.015,
+          "ts": 1749780033529,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104000.0,
+          "tradeTurnover": 17121104.0,
+          "ts": 1749773675634,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106000.0,
+          "tradeTurnover": 14666266.0,
+          "ts": 1749770638272,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106000.0,
+          "tradeTurnover": 10256136.0,
+          "ts": 1749770636479,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105700.0,
+          "tradeTurnover": 13640479.3,
+          "ts": 1749768901962,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105700.0,
+          "tradeTurnover": 11318356.0,
+          "ts": 1749766804069,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106000.0,
+          "tradeTurnover": 10509052.0,
+          "ts": 1749764507417,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106000.0,
+          "tradeTurnover": 37936658.0,
+          "ts": 1749761021211,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106300.0,
+          "tradeTurnover": 20382174.6,
+          "ts": 1749760820924,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106300.0,
+          "tradeTurnover": 18074401.6,
+          "ts": 1749759311084,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107157.5,
+          "tradeTurnover": 14675648.255,
+          "ts": 1749757747625,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107328.0,
+          "tradeTurnover": 14750731.008,
+          "ts": 1749754109140,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107328.0,
+          "tradeTurnover": 12942146.88,
+          "ts": 1749754109070,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107328.0,
+          "tradeTurnover": 12115935.936,
+          "ts": 1749754090738,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108178.5,
+          "tradeTurnover": 14833760.4555,
+          "ts": 1749749301958,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108188.1,
+          "tradeTurnover": 11208178.9719,
+          "ts": 1749749237743,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107650.0,
+          "tradeTurnover": 14982404.05,
+          "ts": 1749741159487,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107300.0,
+          "tradeTurnover": 26151156.0,
+          "ts": 1749723414443,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107400.0,
+          "tradeTurnover": 25535316.6,
+          "ts": 1749722677568,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107600.0,
+          "tradeTurnover": 15512907.2,
+          "ts": 1749704681827,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107600.0,
+          "tradeTurnover": 15958478.8,
+          "ts": 1749702955772,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108000.0,
+          "tradeTurnover": 23300028.0,
+          "ts": 1749698411513,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108489.9,
+          "tradeTurnover": 14269351.0773,
+          "ts": 1749666494032,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108500.0,
+          "tradeTurnover": 42076951.0,
+          "ts": 1749665838122,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 110250.0,
+          "tradeTurnover": 10590063.75,
+          "ts": 1749651745236,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 109700.0,
+          "tradeTurnover": 12314922.0,
+          "ts": 1749625521856,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 109589.7,
+          "tradeTurnover": 12124237.2801,
+          "ts": 1749613676959,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 109902.1,
+          "tradeTurnover": 11965701.0396,
+          "ts": 1749598440581,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 110230.3,
+          "tradeTurnover": 15196018.4671,
+          "ts": 1749584049137,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 110230.3,
+          "tradeTurnover": 11808531.1178,
+          "ts": 1749584046449,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 110000.0,
+          "tradeTurnover": 46148190.0,
+          "ts": 1749583614240,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108572.1,
+          "tradeTurnover": 10133576.9535,
+          "ts": 1749567184122,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 109250.0,
+          "tradeTurnover": 30416620.25,
+          "ts": 1749562915393,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 109500.0,
+          "tradeTurnover": 14844039.0,
+          "ts": 1749562331141,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 109400.0,
+          "tradeTurnover": 12238687.4,
+          "ts": 1749557529397,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 109400.0,
+          "tradeTurnover": 10510167.4,
+          "ts": 1749548316248,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 109400.0,
+          "tradeTurnover": 10301979.2,
+          "ts": 1749533042052,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 109429.5,
+          "tradeTurnover": 10846870.899,
+          "ts": 1749525031834,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 109576.2,
+          "tradeTurnover": 11011421.9142,
+          "ts": 1749521767615,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 109800.0,
+          "tradeTurnover": 15021408.6,
+          "ts": 1749517868229,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 110005.7,
+          "tradeTurnover": 10276622.4883,
+          "ts": 1749516762077,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 110199.0,
+          "tradeTurnover": 11645940.519,
+          "ts": 1749513255300,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 110000.0,
+          "tradeTurnover": 44106040.0,
+          "ts": 1749511335678,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 109810.0,
+          "tradeTurnover": 15008611.18,
+          "ts": 1749505859042,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 110200.0,
+          "tradeTurnover": 18127349.0,
+          "ts": 1749505029515,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 110000.0,
+          "tradeTurnover": 21310740.0,
+          "ts": 1749504516806,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 109500.0,
+          "tradeTurnover": 19069425.0,
+          "ts": 1749504413643,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 109000.0,
+          "tradeTurnover": 13429018.0,
+          "ts": 1749503405150,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108700.0,
+          "tradeTurnover": 13583804.2,
+          "ts": 1749497056034,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107800.0,
+          "tradeTurnover": 10864730.8,
+          "ts": 1749472816309,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107570.0,
+          "tradeTurnover": 14529049.62,
+          "ts": 1749470957026,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107300.0,
+          "tradeTurnover": 31204127.6,
+          "ts": 1749464133969,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107100.0,
+          "tradeTurnover": 38152982.7,
+          "ts": 1749464058407,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107099.0,
+          "tradeTurnover": 10232881.054,
+          "ts": 1749464058407,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107000.0,
+          "tradeTurnover": 11439370.0,
+          "ts": 1749464011642,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106300.0,
+          "tradeTurnover": 14164368.7,
+          "ts": 1749419549382,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106200.0,
+          "tradeTurnover": 14970376.8,
+          "ts": 1749399827087,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106200.0,
+          "tradeTurnover": 11214613.8,
+          "ts": 1749399827044,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105577.2,
+          "tradeTurnover": 11466000.6516,
+          "ts": 1749388682646,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105800.0,
+          "tradeTurnover": 12202654.6,
+          "ts": 1749321009095,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105750.0,
+          "tradeTurnover": 16397912.25,
+          "ts": 1749321008182,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105700.0,
+          "tradeTurnover": 19143961.2,
+          "ts": 1749304396544,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105455.0,
+          "tradeTurnover": 15447575.675,
+          "ts": 1749302451358,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104900.0,
+          "tradeTurnover": 15577335.3,
+          "ts": 1749275189586,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104750.0,
+          "tradeTurnover": 10718124.75,
+          "ts": 1749272758446,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104850.0,
+          "tradeTurnover": 11066288.4,
+          "ts": 1749268114323,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104700.0,
+          "tradeTurnover": 10020104.1,
+          "ts": 1749266185256,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104755.0,
+          "tradeTurnover": 12807451.055,
+          "ts": 1749266022509,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104311.0,
+          "tradeTurnover": 18559638.986,
+          "ts": 1749237836930,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104490.0,
+          "tradeTurnover": 11139887.88,
+          "ts": 1749229958829,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104500.0,
+          "tradeTurnover": 37101680.0,
+          "ts": 1749229883850,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105000.0,
+          "tradeTurnover": 11440065.0,
+          "ts": 1749225551388,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105250.0,
+          "tradeTurnover": 13482209.25,
+          "ts": 1749222917859,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104850.0,
+          "tradeTurnover": 10509010.65,
+          "ts": 1749222408315,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104655.0,
+          "tradeTurnover": 19274206.695,
+          "ts": 1749221701311,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 103700.0,
+          "tradeTurnover": 12261695.4,
+          "ts": 1749201626848,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 102860.0,
+          "tradeTurnover": 10308012.04,
+          "ts": 1749190942352,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 103000.0,
+          "tradeTurnover": 14298460.0,
+          "ts": 1749190249734,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 101700.0,
+          "tradeTurnover": 26617432.5,
+          "ts": 1749170652784,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 101150.0,
+          "tradeTurnover": 11589564.7,
+          "ts": 1749159127950,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 100960.0,
+          "tradeTurnover": 14194269.28,
+          "ts": 1749158565702,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 100500.0,
+          "tradeTurnover": 18727572.0,
+          "ts": 1749158137837,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 100550.0,
+          "tradeTurnover": 20627530.85,
+          "ts": 1749156945362,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 100700.0,
+          "tradeTurnover": 10227192.7,
+          "ts": 1749156840882,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 100750.0,
+          "tradeTurnover": 12334218.0,
+          "ts": 1749156119383,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 101300.0,
+          "tradeTurnover": 10858347.0,
+          "ts": 1749154759945,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 103800.0,
+          "tradeTurnover": 14665175.4,
+          "ts": 1749141532337,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104000.0,
+          "tradeTurnover": 15755480.0,
+          "ts": 1749140884748,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104800.0,
+          "tradeTurnover": 17039432.0,
+          "ts": 1749137309120,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104800.0,
+          "tradeTurnover": 29109248.0,
+          "ts": 1749137308891,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104800.0,
+          "tradeTurnover": 58065383.2,
+          "ts": 1749137124124,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104210.0,
+          "tradeTurnover": 10437152.55,
+          "ts": 1749133822378,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105050.0,
+          "tradeTurnover": 19533627.3,
+          "ts": 1749125607747,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104630.0,
+          "tradeTurnover": 12262949.89,
+          "ts": 1749105004893,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104750.0,
+          "tradeTurnover": 20153795.25,
+          "ts": 1749048498434,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104621.9,
+          "tradeTurnover": 12877700.4272,
+          "ts": 1749046652118,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105050.0,
+          "tradeTurnover": 16049223.85,
+          "ts": 1749038137286,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105400.0,
+          "tradeTurnover": 10259741.4,
+          "ts": 1749011686716,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105200.0,
+          "tradeTurnover": 11835000.0,
+          "ts": 1748997069466,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106300.0,
+          "tradeTurnover": 10294092.0,
+          "ts": 1748979089734,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106300.0,
+          "tradeTurnover": 11552365.1,
+          "ts": 1748961901285,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105800.0,
+          "tradeTurnover": 17649873.4,
+          "ts": 1748961416905,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105050.0,
+          "tradeTurnover": 18215775.05,
+          "ts": 1748943220010,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105500.0,
+          "tradeTurnover": 11012617.5,
+          "ts": 1748922093642,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105500.0,
+          "tradeTurnover": 43428864.0,
+          "ts": 1748903023541,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104500.0,
+          "tradeTurnover": 11324769.5,
+          "ts": 1748877966099,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104200.0,
+          "tradeTurnover": 11601419.6,
+          "ts": 1748875586143,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104600.0,
+          "tradeTurnover": 10981221.8,
+          "ts": 1748874806680,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104500.0,
+          "tradeTurnover": 13660762.5,
+          "ts": 1748874402882,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104205.0,
+          "tradeTurnover": 10195625.61,
+          "ts": 1748864326647,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104610.0,
+          "tradeTurnover": 20947943.28,
+          "ts": 1748856612225,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104800.0,
+          "tradeTurnover": 13800378.4,
+          "ts": 1748855260628,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104800.0,
+          "tradeTurnover": 38707356.0,
+          "ts": 1748855250952,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105000.0,
+          "tradeTurnover": 10946670.0,
+          "ts": 1748811083731,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105000.0,
+          "tradeTurnover": 11546010.0,
+          "ts": 1748811078051,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104950.0,
+          "tradeTurnover": 10010550.8,
+          "ts": 1748797132090,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 103830.0,
+          "tradeTurnover": 12358158.09,
+          "ts": 1748673359268,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104000.0,
+          "tradeTurnover": 10093824.0,
+          "ts": 1748622873770,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104000.0,
+          "tradeTurnover": 10939552.0,
+          "ts": 1748622873268,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105902.3,
+          "tradeTurnover": 12991564.6525,
+          "ts": 1748606606134,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104600.0,
+          "tradeTurnover": 17275108.4,
+          "ts": 1748598157026,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104911.8,
+          "tradeTurnover": 12380012.0472,
+          "ts": 1748597949374,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106100.0,
+          "tradeTurnover": 13136665.4,
+          "ts": 1748576053717,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105001.7,
+          "tradeTurnover": 13561389.5618,
+          "ts": 1748566819702,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104988.7,
+          "tradeTurnover": 10499184.9661,
+          "ts": 1748566815423,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105650.0,
+          "tradeTurnover": 11229432.85,
+          "ts": 1748561271362,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105999.0,
+          "tradeTurnover": 27881658.963,
+          "ts": 1748547064496,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106800.0,
+          "tradeTurnover": 23581546.8,
+          "ts": 1748534587669,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107599.0,
+          "tradeTurnover": 16091645.648,
+          "ts": 1748530492243,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107500.0,
+          "tradeTurnover": 11150222.5,
+          "ts": 1748530059790,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107200.0,
+          "tradeTurnover": 12682617.6,
+          "ts": 1748529921303,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107000.0,
+          "tradeTurnover": 11795787.0,
+          "ts": 1748529746936,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106900.0,
+          "tradeTurnover": 12184034.4,
+          "ts": 1748528740490,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108758.0,
+          "tradeTurnover": 11618943.414,
+          "ts": 1748516175861,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108150.0,
+          "tradeTurnover": 10832304.0,
+          "ts": 1748507402178,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107709.6,
+          "tradeTurnover": 12857618.0808,
+          "ts": 1748452787505,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108000.0,
+          "tradeTurnover": 10440144.0,
+          "ts": 1748440535284,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108850.0,
+          "tradeTurnover": 10442307.05,
+          "ts": 1748433054207,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 110136.0,
+          "tradeTurnover": 11694681.024,
+          "ts": 1748362524722,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 110260.0,
+          "tradeTurnover": 11052131.62,
+          "ts": 1748351713823,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 109750.0,
+          "tradeTurnover": 71400496.5,
+          "ts": 1748339646208,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 109747.8,
+          "tradeTurnover": 10854825.6546,
+          "ts": 1748339646208,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 109495.0,
+          "tradeTurnover": 10698975.44,
+          "ts": 1748338634499,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 109600.0,
+          "tradeTurnover": 21825853.6,
+          "ts": 1748333127134,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 109421.0,
+          "tradeTurnover": 10940239.843,
+          "ts": 1748331668114,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108900.0,
+          "tradeTurnover": 10096554.6,
+          "ts": 1748317599370,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108128.9,
+          "tradeTurnover": 10022900.2566,
+          "ts": 1748310405845,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108000.0,
+          "tradeTurnover": 16917012.0,
+          "ts": 1748308822264,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108888.0,
+          "tradeTurnover": 13693319.328,
+          "ts": 1748307965904,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 109600.0,
+          "tradeTurnover": 11365958.4,
+          "ts": 1748224370344,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 109500.0,
+          "tradeTurnover": 20486464.5,
+          "ts": 1748221542232,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108900.0,
+          "tradeTurnover": 16043365.8,
+          "ts": 1748219903288,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108900.0,
+          "tradeTurnover": 11427312.6,
+          "ts": 1748219894443,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 109000.0,
+          "tradeTurnover": 15654580.0,
+          "ts": 1748214539212,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 109000.0,
+          "tradeTurnover": 33907829.0,
+          "ts": 1748214184869,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 109100.0,
+          "tradeTurnover": 18950124.5,
+          "ts": 1748214111625,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 109108.7,
+          "tradeTurnover": 10910979.1087,
+          "ts": 1748213873301,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 109050.0,
+          "tradeTurnover": 35374620.45,
+          "ts": 1748213534210,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108300.0,
+          "tradeTurnover": 22737693.3,
+          "ts": 1748212025466,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108515.8,
+          "tradeTurnover": 14381490.4582,
+          "ts": 1748211315591,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106600.0,
+          "tradeTurnover": 10142137.2,
+          "ts": 1748190078852,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107100.0,
+          "tradeTurnover": 14191606.8,
+          "ts": 1748187726120,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106800.0,
+          "tradeTurnover": 16024058.4,
+          "ts": 1748186913323,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106700.0,
+          "tradeTurnover": 10553483.6,
+          "ts": 1748186834285,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106700.0,
+          "tradeTurnover": 17764589.7,
+          "ts": 1748186819953,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107300.0,
+          "tradeTurnover": 16355095.2,
+          "ts": 1748174888341,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106855.1,
+          "tradeTurnover": 12643522.8524,
+          "ts": 1748170823132,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106800.0,
+          "tradeTurnover": 18555752.4,
+          "ts": 1748170686920,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107650.0,
+          "tradeTurnover": 10832388.9,
+          "ts": 1748157177588,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107749.0,
+          "tradeTurnover": 71386082.978,
+          "ts": 1748130924424,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107620.0,
+          "tradeTurnover": 10805263.24,
+          "ts": 1748130395090,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107910.0,
+          "tradeTurnover": 27018074.16,
+          "ts": 1748130098675,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108020.0,
+          "tradeTurnover": 80081707.2,
+          "ts": 1748129890157,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108021.5,
+          "tradeTurnover": 13666124.0295,
+          "ts": 1748129890157,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108070.0,
+          "tradeTurnover": 10348891.27,
+          "ts": 1748129886757,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107642.0,
+          "tradeTurnover": 11611234.898,
+          "ts": 1748128175741,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107720.0,
+          "tradeTurnover": 10221873.96,
+          "ts": 1748127934198,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108860.0,
+          "tradeTurnover": 10899825.22,
+          "ts": 1748105167049,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108600.0,
+          "tradeTurnover": 11690898.6,
+          "ts": 1748089135162,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108700.0,
+          "tradeTurnover": 26513234.4,
+          "ts": 1748089010257,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 109110.0,
+          "tradeTurnover": 10473687.12,
+          "ts": 1748087781729,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 109000.0,
+          "tradeTurnover": 13871667.0,
+          "ts": 1748083255874,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108800.0,
+          "tradeTurnover": 12768550.4,
+          "ts": 1748083200698,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108750.0,
+          "tradeTurnover": 10917303.75,
+          "ts": 1748083200564,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108614.7,
+          "tradeTurnover": 10861578.6147,
+          "ts": 1748082996624,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108371.5,
+          "tradeTurnover": 11985454.414,
+          "ts": 1748077393582,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 109179.7,
+          "tradeTurnover": 11126830.7661,
+          "ts": 1748019828107,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 109050.0,
+          "tradeTurnover": 16653461.7,
+          "ts": 1748012936632,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 109000.0,
+          "tradeTurnover": 11089442.0,
+          "ts": 1748012893542,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 109080.0,
+          "tradeTurnover": 12733562.88,
+          "ts": 1748012849654,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 109100.0,
+          "tradeTurnover": 10420250.1,
+          "ts": 1748012848265,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 109600.0,
+          "tradeTurnover": 15152528.8,
+          "ts": 1748008634429,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108800.0,
+          "tradeTurnover": 11121971.2,
+          "ts": 1748006677857,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108100.0,
+          "tradeTurnover": 10868157.8,
+          "ts": 1748003175153,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 110650.0,
+          "tradeTurnover": 10622510.65,
+          "ts": 1747974758026,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 111155.7,
+          "tradeTurnover": 11994255.8085,
+          "ts": 1747969818580,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 111300.0,
+          "tradeTurnover": 13748332.5,
+          "ts": 1747962360070,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 111000.0,
+          "tradeTurnover": 11660883.0,
+          "ts": 1747943240865,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 111620.0,
+          "tradeTurnover": 10431670.34,
+          "ts": 1747940608676,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 111280.0,
+          "tradeTurnover": 17333195.36,
+          "ts": 1747931287714,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 111400.0,
+          "tradeTurnover": 10483965.4,
+          "ts": 1747930839650,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 110700.0,
+          "tradeTurnover": 10818268.2,
+          "ts": 1747923254947,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 111500.0,
+          "tradeTurnover": 13049625.5,
+          "ts": 1747917535494,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 110630.0,
+          "tradeTurnover": 12318097.35,
+          "ts": 1747912541153,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 111000.0,
+          "tradeTurnover": 10323666.0,
+          "ts": 1747900477296,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 111016.1,
+          "tradeTurnover": 15325661.5889,
+          "ts": 1747898240016,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 111016.1,
+          "tradeTurnover": 17658997.9787,
+          "ts": 1747898239915,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 110600.0,
+          "tradeTurnover": 19850709.2,
+          "ts": 1747898020712,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 110600.0,
+          "tradeTurnover": 13412904.4,
+          "ts": 1747898020606,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 110800.0,
+          "tradeTurnover": 16052814.8,
+          "ts": 1747893513431,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 111000.0,
+          "tradeTurnover": 20643669.0,
+          "ts": 1747893420440,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 111421.0,
+          "tradeTurnover": 12146448.894,
+          "ts": 1747892944377,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 111300.0,
+          "tradeTurnover": 10882468.8,
+          "ts": 1747892485565,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 110300.0,
+          "tradeTurnover": 17588107.1,
+          "ts": 1747879716873,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 109850.0,
+          "tradeTurnover": 14087493.55,
+          "ts": 1747869808722,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108520.0,
+          "tradeTurnover": 12174750.28,
+          "ts": 1747866380196,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108150.0,
+          "tradeTurnover": 15769784.1,
+          "ts": 1747856308695,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108050.0,
+          "tradeTurnover": 21461647.35,
+          "ts": 1747856288954,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107150.0,
+          "tradeTurnover": 10415087.15,
+          "ts": 1747854350229,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107150.0,
+          "tradeTurnover": 20570549.85,
+          "ts": 1747854346834,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106483.4,
+          "tradeTurnover": 27887150.5928,
+          "ts": 1747850378265,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106569.2,
+          "tradeTurnover": 15636579.0084,
+          "ts": 1747849962607,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106507.1,
+          "tradeTurnover": 22806684.8443,
+          "ts": 1747849948340,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106608.6,
+          "tradeTurnover": 10140716.6406,
+          "ts": 1747849941095,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106691.3,
+          "tradeTurnover": 12692743.8871,
+          "ts": 1747849877837,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106400.0,
+          "tradeTurnover": 15056025.6,
+          "ts": 1747849819998,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106545.8,
+          "tradeTurnover": 10998296.7508,
+          "ts": 1747849804844,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106754.8,
+          "tradeTurnover": 12894165.0084,
+          "ts": 1747849707322,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106400.0,
+          "tradeTurnover": 17753584.8,
+          "ts": 1747849499591,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106700.0,
+          "tradeTurnover": 10757067.2,
+          "ts": 1747849427787,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107400.7,
+          "tradeTurnover": 15225338.0334,
+          "ts": 1747849173050,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106800.0,
+          "tradeTurnover": 10518411.6,
+          "ts": 1747848688972,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107000.0,
+          "tradeTurnover": 11359441.0,
+          "ts": 1747848573644,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107491.0,
+          "tradeTurnover": 10539922.514,
+          "ts": 1747848466987,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107300.0,
+          "tradeTurnover": 20390540.9,
+          "ts": 1747848382592,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107400.0,
+          "tradeTurnover": 26277987.6,
+          "ts": 1747848368707,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108398.0,
+          "tradeTurnover": 12710857.878,
+          "ts": 1747841941513,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 108976.4,
+          "tradeTurnover": 21227077.0504,
+          "ts": 1747840790134,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108800.9,
+          "tradeTurnover": 15655470.3019,
+          "ts": 1747839708669,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106300.0,
+          "tradeTurnover": 14121848.7,
+          "ts": 1747833232347,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106200.0,
+          "tradeTurnover": 18649675.8,
+          "ts": 1747819195134,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106400.0,
+          "tradeTurnover": 10449544.0,
+          "ts": 1747814435879,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106850.0,
+          "tradeTurnover": 15269185.55,
+          "ts": 1747781772191,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106499.2,
+          "tradeTurnover": 16365199.568,
+          "ts": 1747772233042,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106800.0,
+          "tradeTurnover": 19440056.4,
+          "ts": 1747771228926,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 107100.0,
+          "tradeTurnover": 10389771.0,
+          "ts": 1747771062658,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106600.0,
+          "tradeTurnover": 19000810.4,
+          "ts": 1747770402841,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106600.0,
+          "tradeTurnover": 10516836.2,
+          "ts": 1747770247168,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 106450.0,
+          "tradeTurnover": 11921548.4,
+          "ts": 1747769694305,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106400.0,
+          "tradeTurnover": 18897065.6,
+          "ts": 1747769452710,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106100.0,
+          "tradeTurnover": 11960334.7,
+          "ts": 1747768935198,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106200.0,
+          "tradeTurnover": 41068495.8,
+          "ts": 1747763172424,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106000.0,
+          "tradeTurnover": 47254270.0,
+          "ts": 1747761141937,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105200.0,
+          "tradeTurnover": 13593418.0,
+          "ts": 1747756483066,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104800.0,
+          "tradeTurnover": 10393644.8,
+          "ts": 1747743977596,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105200.0,
+          "tradeTurnover": 11958820.4,
+          "ts": 1747735874216,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105090.0,
+          "tradeTurnover": 13016447.4,
+          "ts": 1747728086537,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106800.0,
+          "tradeTurnover": 10459671.6,
+          "ts": 1747707867550,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106800.0,
+          "tradeTurnover": 11274769.2,
+          "ts": 1747707867307,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105650.1,
+          "tradeTurnover": 10430094.8223,
+          "ts": 1747702752059,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 106300.0,
+          "tradeTurnover": 19812938.1,
+          "ts": 1747700283535,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105800.0,
+          "tradeTurnover": 12181388.8,
+          "ts": 1747699675517,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105800.0,
+          "tradeTurnover": 12411821.2,
+          "ts": 1747699675414,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105459.2,
+          "tradeTurnover": 11234674.0352,
+          "ts": 1747697761487,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105400.0,
+          "tradeTurnover": 10403928.6,
+          "ts": 1747694740021,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105600.0,
+          "tradeTurnover": 11656444.8,
+          "ts": 1747685020364,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105155.0,
+          "tradeTurnover": 10049032.42,
+          "ts": 1747674983511,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105300.0,
+          "tradeTurnover": 24694008.3,
+          "ts": 1747673878325,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105300.0,
+          "tradeTurnover": 16687522.8,
+          "ts": 1747673878159,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105150.0,
+          "tradeTurnover": 13113571.95,
+          "ts": 1747673650482,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104583.1,
+          "tradeTurnover": 10395037.2245,
+          "ts": 1747671064514,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104920.0,
+          "tradeTurnover": 12111964.8,
+          "ts": 1747669646463,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 103450.0,
+          "tradeTurnover": 10001339.1,
+          "ts": 1747662967076,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 102100.0,
+          "tradeTurnover": 15485813.3,
+          "ts": 1747658442154,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 102200.0,
+          "tradeTurnover": 26670316.4,
+          "ts": 1747658260926,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 102900.0,
+          "tradeTurnover": 36831202.8,
+          "ts": 1747627607892,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 103500.0,
+          "tradeTurnover": 11198596.5,
+          "ts": 1747627276452,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 103500.0,
+          "tradeTurnover": 16292142.0,
+          "ts": 1747627272258,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104796.8,
+          "tradeTurnover": 10458091.8592,
+          "ts": 1747622788817,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 105000.0,
+          "tradeTurnover": 15213345.0,
+          "ts": 1747620587047,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105800.0,
+          "tradeTurnover": 16691325.4,
+          "ts": 1747609171642,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105400.0,
+          "tradeTurnover": 20291502.6,
+          "ts": 1747608553893,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 103693.1,
+          "tradeTurnover": 11244376.0709,
+          "ts": 1747599011161,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 103800.0,
+          "tradeTurnover": 12966903.6,
+          "ts": 1747598405747,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 103800.0,
+          "tradeTurnover": 12757227.6,
+          "ts": 1747598405518,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104150.0,
+          "tradeTurnover": 15566467.3,
+          "ts": 1747592426733,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104100.0,
+          "tradeTurnover": 40729020.9,
+          "ts": 1747591661896,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104200.0,
+          "tradeTurnover": 41937686.6,
+          "ts": 1747591657140,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104300.0,
+          "tradeTurnover": 40495622.3,
+          "ts": 1747591651059,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104500.0,
+          "tradeTurnover": 13670376.5,
+          "ts": 1747591320225,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105500.0,
+          "tradeTurnover": 10515923.5,
+          "ts": 1747584006531,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105300.0,
+          "tradeTurnover": 21798574.2,
+          "ts": 1747579576802,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104800.0,
+          "tradeTurnover": 11292409.6,
+          "ts": 1747576849890,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104800.0,
+          "tradeTurnover": 13920374.4,
+          "ts": 1747576849759,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104500.0,
+          "tradeTurnover": 47469229.5,
+          "ts": 1747575716543,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 104100.0,
+          "tradeTurnover": 14400257.1,
+          "ts": 1747575435778,
+          "symbol": "BTCUSDT"
+        }
+      ]
+    },
+    "BTCUSDT_Binance_SWAP_min50000000": {
+      "success": true,
+      "code": "1",
+      "data": [
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 104800.0,
+          "tradeTurnover": 58065383.2,
+          "ts": 1749137124124,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 109750.0,
+          "tradeTurnover": 71400496.5,
+          "ts": 1748339646208,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 107749.0,
+          "tradeTurnover": 71386082.978,
+          "ts": 1748130924424,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 108020.0,
+          "tradeTurnover": 80081707.2,
+          "ts": 1748129890157,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 93700.0,
+          "tradeTurnover": 52056534.2,
+          "ts": 1745537515901,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 93600.0,
+          "tradeTurnover": 79490923.2,
+          "ts": 1745537297844,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 75140.0,
+          "tradeTurnover": 61381866.0,
+          "ts": 1744009966584,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 105900.0,
+          "tradeTurnover": 58725044.7,
+          "ts": 1738338919002,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "buy",
+          "price": 94880.0,
+          "tradeTurnover": 50157647.84,
+          "ts": 1735766472148,
+          "symbol": "BTCUSDT"
+        },
+        {
+          "exchangeName": "Binance",
+          "baseCoin": "BTC",
+          "side": "sell",
+          "price": 98148.3,
+          "tradeTurnover": 61981731.0813,
+          "ts": 1733477382418,
+          "symbol": "BTCUSDT"
+        }
+      ]
+    },
+    "BTCUSDT_Binance_SWAP_min100000000": {
+      "success": true,
+      "code": "1",
+      "data": []
+    },
+    "BTCUSDT_Binance_SPOT_min10000000": {
+      "success": true,
+      "code": "1",
+      "data": []
+    },
+    "BTCUSDT_Binance_SPOT_min50000000": {
+      "success": true,
+      "code": "1",
+      "data": []
+    },
+    "BTCUSDT_Binance_SPOT_min100000000": {
+      "success": true,
+      "code": "1",
+      "data": []
+    },
+    "BTCUSDT_OKX_SWAP_min10000000": {
+      "success": true,
+      "code": "1",
+      "data": []
+    },
+    "BTCUSDT_OKX_SWAP_min50000000": {
+      "success": true,
+      "code": "1",
+      "data": []
+    },
+    "BTCUSDT_OKX_SWAP_min100000000": {
+      "success": true,
+      "code": "1",
+      "data": []
+    },
+    "BTCUSDT_OKX_SPOT_min10000000": {
+      "success": true,
+      "code": "1",
+      "data": []
+    },
+    "BTCUSDT_OKX_SPOT_min50000000": {
+      "success": true,
+      "code": "1",
+      "data": []
+    },
+    "BTCUSDT_OKX_SPOT_min100000000": {
+      "success": true,
+      "code": "1",
+      "data": []
+    },
+    "BTCUSD_Binance_SWAP_min10000000": {
+      "success": true,
+      "code": "1",
+      "data": []
+    },
+    "BTCUSD_Binance_SWAP_min50000000": {
+      "success": true,
+      "code": "1",
+      "data": []
+    },
+    "BTCUSD_Binance_SWAP_min100000000": {
+      "success": true,
+      "code": "1",
+      "data": []
+    },
+    "BTCUSD_Binance_SPOT_min10000000": {
+      "success": true,
+      "code": "1",
+      "data": []
+    },
+    "BTCUSD_Binance_SPOT_min50000000": {
+      "success": true,
+      "code": "1",
+      "data": []
+    },
+    "BTCUSD_Binance_SPOT_min100000000": {
+      "success": true,
+      "code": "1",
+      "data": []
+    },
+    "BTCUSD_OKX_SWAP_min10000000": {
+      "success": true,
+      "code": "1",
+      "data": []
+    },
+    "BTCUSD_OKX_SWAP_min50000000": {
+      "success": true,
+      "code": "1",
+      "data": []
+    },
+    "BTCUSD_OKX_SWAP_min100000000": {
+      "success": true,
+      "code": "1",
+      "data": []
+    },
+    "BTCUSD_OKX_SPOT_min10000000": {
+      "success": true,
+      "code": "1",
+      "data": []
+    },
+    "BTCUSD_OKX_SPOT_min50000000": {
+      "success": true,
+      "code": "1",
+      "data": []
+    },
+    "BTCUSD_OKX_SPOT_min100000000": {
+      "success": true,
+      "code": "1",
+      "data": []
+    }
+  }
+}
